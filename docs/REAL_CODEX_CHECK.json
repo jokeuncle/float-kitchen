@@ -1,0 +1,30 @@
+{
+  "real_client": "codex exec",
+  "claude_executed": false,
+  "expected_ui_sequence": [
+    "idle",
+    "cooking",
+    "reading",
+    "searching",
+    "testing",
+    "failed",
+    "cooking",
+    "testing",
+    "served"
+  ],
+  "observed_ui_sequence": [
+    "idle",
+    "cooking",
+    "reading",
+    "searching",
+    "testing",
+    "failed",
+    "cooking",
+    "testing",
+    "served"
+  ],
+  "state_and_text_reconciled": true,
+  "initial_test_exit": 1,
+  "final_test_exit": 0,
+  "raw_conversations_published": false
+}

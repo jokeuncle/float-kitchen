@@ -1,0 +1,10 @@
+{
+  "display_callback_hz" : 117.91732466031681,
+  "display_callback_p95_interval_ms" : 8.3427915815263987,
+  "display_callback_worst_interval_ms" : 42.465374921448529,
+  "display_callbacks" : 965,
+  "duration_seconds" : 8.1836999166989699,
+  "note" : "Display callbacks measure main-thread cadence, not GPU presentation. Animation uses Core Animation with cached image layers.",
+  "peak_resident_mib" : 110.671875,
+  "process_cpu_percent_one_core" : 2.5315322178084783
+}

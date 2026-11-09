@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-09T08:23:26.572367+00:00",
+  "title": "Design System: Float Kitchen",
+  "extensions": {
+    "colorMeta": {
+      "background": {
+        "role": "neutral",
+        "displayName": "Espresso",
+        "tonalRamp": [
+          "oklch(15% 0.00974 67.32)",
+          "oklch(26% 0.00974 67.32)",
+          "oklch(38% 0.00974 67.32)",
+          "oklch(49% 0.00974 67.32)",
+          "oklch(61% 0.00974 67.32)",
+          "oklch(72% 0.00974 67.32)",
+          "oklch(84% 0.00974 67.32)",
+          "oklch(95% 0.00974 67.32)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Warm Surface",
+        "tonalRamp": [
+          "oklch(15% 0.01402 67.18)",
+          "oklch(26% 0.01402 67.18)",
+          "oklch(38% 0.01402 67.18)",
+          "oklch(49% 0.01402 67.18)",
+          "oklch(61% 0.01402 67.18)",
+          "oklch(72% 0.01402 67.18)",
+          "oklch(84% 0.01402 67.18)",
+          "oklch(95% 0.01402 67.18)"
+        ]
+      },
+      "cream": {
+        "role": "neutral",
+        "displayName": "Cream",
+        "tonalRamp": [
+          "oklch(15% 0.02828 79.48)",
+          "oklch(26% 0.02828 79.48)",
+          "oklch(38% 0.02828 79.48)",
+          "oklch(49% 0.02828 79.48)",
+          "oklch(61% 0.02828 79.48)",
+          "oklch(72% 0.02828 79.48)",
+          "oklch(84% 0.02828 79.48)",
+          "oklch(95% 0.02828 79.48)"
+        ]
+      },
+      "secondary": {
+        "role": "neutral",
+        "displayName": "Secondary",
+        "tonalRamp": [
+          "oklch(15% 0.03066 75.62)",
+          "oklch(26% 0.03066 75.62)",
+          "oklch(38% 0.03066 75.62)",
+          "oklch(49% 0.03066 75.62)",
+          "oklch(61% 0.03066 75.62)",
+          "oklch(72% 0.03066 75.62)",
+          "oklch(84% 0.03066 75.62)",
+          "oklch(95% 0.03066 75.62)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.02973 76.10)",
+          "oklch(26% 0.02973 76.10)",
+          "oklch(38% 0.02973 76.10)",
+          "oklch(49% 0.02973 76.10)",
+          "oklch(61% 0.02973 76.10)",
+          "oklch(72% 0.02973 76.10)",
+          "oklch(84% 0.02973 76.10)",
+          "oklch(95% 0.02973 76.10)"
+        ]
+      },
+      "copper": {
+        "role": "primary",
+        "displayName": "Copper",
+        "tonalRamp": [
+          "oklch(15% 0.10910 60.77)",
+          "oklch(26% 0.10910 60.77)",
+          "oklch(38% 0.10910 60.77)",
+          "oklch(49% 0.10910 60.77)",
+          "oklch(61% 0.10910 60.77)",
+          "oklch(72% 0.10910 60.77)",
+          "oklch(84% 0.10910 60.77)",
+          "oklch(95% 0.10910 60.77)"
+        ]
+      },
+      "sage": {
+        "role": "secondary",
+        "displayName": "Sage",
+        "tonalRamp": [
+          "oklch(15% 0.05857 131.66)",
+          "oklch(26% 0.05857 131.66)",
+          "oklch(38% 0.05857 131.66)",
+          "oklch(49% 0.05857 131.66)",
+          "oklch(61% 0.05857 131.66)",
+          "oklch(72% 0.05857 131.66)",
+          "oklch(84% 0.05857 131.66)",
+          "oklch(95% 0.05857 131.66)"
+        ]
+      },
+      "gold": {
+        "role": "secondary",
+        "displayName": "Gold",
+        "tonalRamp": [
+          "oklch(15% 0.10403 85.72)",
+          "oklch(26% 0.10403 85.72)",
+          "oklch(38% 0.10403 85.72)",
+          "oklch(49% 0.10403 85.72)",
+          "oklch(61% 0.10403 85.72)",
+          "oklch(72% 0.10403 85.72)",
+          "oklch(84% 0.10403 85.72)",
+          "oklch(95% 0.10403 85.72)"
+        ]
+      },
+      "error": {
+        "role": "secondary",
+        "displayName": "Soft Error Coral",
+        "tonalRamp": [
+          "oklch(15% 0.10851 32.98)",
+          "oklch(26% 0.10851 32.98)",
+          "oklch(38% 0.10851 32.98)",
+          "oklch(49% 0.10851 32.98)",
+          "oklch(61% 0.10851 32.98)",
+          "oklch(72% 0.10851 32.98)",
+          "oklch(84% 0.10851 32.98)",
+          "oklch(95% 0.10851 32.98)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Brown Rule",
+        "tonalRamp": [
+          "oklch(15% 0.02641 64.66)",
+          "oklch(26% 0.02641 64.66)",
+          "oklch(38% 0.02641 64.66)",
+          "oklch(49% 0.02641 64.66)",
+          "oklch(61% 0.02641 64.66)",
+          "oklch(72% 0.02641 64.66)",
+          "oklch(84% 0.02641 64.66)",
+          "oklch(95% 0.02641 64.66)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Receipt Paper",
+        "tonalRamp": [
+          "oklch(15% 0.03913 82.34)",
+          "oklch(26% 0.03913 82.34)",
+          "oklch(38% 0.03913 82.34)",
+          "oklch(49% 0.03913 82.34)",
+          "oklch(61% 0.03913 82.34)",
+          "oklch(72% 0.03913 82.34)",
+          "oklch(84% 0.03913 82.34)",
+          "oklch(95% 0.03913 82.34)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.02986 55.95)",
+          "oklch(26% 0.02986 55.95)",
+          "oklch(38% 0.02986 55.95)",
+          "oklch(49% 0.02986 55.95)",
+          "oklch(61% 0.02986 55.95)",
+          "oklch(72% 0.02986 55.95)",
+          "oklch(84% 0.02986 55.95)",
+          "oklch(95% 0.02986 55.95)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Native Serif Brand",
+        "purpose": "Brand and guide heading."
+      },
+      "headline": {
+        "displayName": "Native Serif Activity",
+        "purpose": "Selected activity caption."
+      },
+      "sign-title": {
+        "displayName": "Steady Sign Title",
+        "purpose": "Client and named activity, measured before drawing."
+      }
+    },
+    "shadows": [
+      {
+        "name": "native-panel",
+        "value": "AppKit NSPanel.hasShadow = true; system-owned",
+        "purpose": "Desktop elevation; no invented CSS shadow token."
+      }
+    ],
+    "motion": [
+      {
+        "name": "pose-fade",
+        "value": "360ms; CAMediaTimingFunction.easeInEaseOut",
+        "purpose": "Changed poses only; suppressed by pause or Reduce Motion."
+      },
+      {
+        "name": "pose-settle",
+        "value": "280ms; CAMediaTimingFunction.easeOut",
+        "purpose": "Presentation transform to rest; activity loop starts afterward."
+      },
+      {
+        "name": "reading",
+        "value": "2.8s; rotation [0,-0.018,0.018,0] radians",
+        "purpose": "Recipe-reading sway."
+      },
+      {
+        "name": "searching",
+        "value": "4.2s; translation.x [0,-18,0,0] pt",
+        "purpose": "Shopping excursion; keyTimes [0,0.35,0.75,1]."
+      },
+      {
+        "name": "cooking",
+        "value": "1.2s; rotation [0,-0.075,0.08,0] radians; translation.y [0,-4,0] pt",
+        "purpose": "Pan toss and body rotate together."
+      },
+      {
+        "name": "testing",
+        "value": "0.45s; translation.y [0,-1.8,0,-1,0] pt",
+        "purpose": "Lid-check tremor."
+      },
+      {
+        "name": "waiting",
+        "value": "1.7s; rotation [0,-0.025,0.025,0,0] radians; ring scale 0.5→1.6; opacity 0.65→0",
+        "purpose": "Explicit waiting event."
+      },
+      {
+        "name": "failed",
+        "value": "2s; rotation [0,-0.018,0.018,0] radians",
+        "purpose": "Failure sway and dark smoke."
+      },
+      {
+        "name": "served",
+        "value": "3.6s; translation.y [0,-8,0,0] pt",
+        "purpose": "Serving lift; keyTimes [0,0.3,0.6,1]."
+      },
+      {
+        "name": "activity-easing",
+        "value": "CAMediaTimingFunction.easeInEaseOut",
+        "purpose": "Repeated loops start/end at rest; idle has no loop."
+      }
+    ],
+    "nativeGeometry": {
+      "units": "AppKit pt",
+      "expanded": "680×764",
+      "compact": "440×400",
+      "signCompactThreshold": "scene width < 500pt; not a web breakpoint",
+      "guide": "580×640 viewport / 580×1110 document",
+      "receipt": "480×490 initial; resizable"
+    },
+    "previewNotes": "HTML/CSS translates native primitives for documentation only, at 1 CSS px per AppKit pt; browser fonts, SF Symbol stand-in and ellipsis are approximations, not native verification. Tonal ramps are synthesized OKLCH panel metadata, not shipped AppKit color tokens. Native scene artwork is not recreated in HTML."
+  },
+  "components": [
+    {
+      "name": "Client button",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "Native client selector at rest; preview maps one AppKit point to one CSS pixel.",
+      "html": "<button class=\"ds-button\">Codex</button>",
+      "css": ".ds-button{font:500 12px system-ui;color:#c7b9a6;background:rgba(44,38,32,.85);height:30px;border:0;border-radius:9px;padding:2px 8px;cursor:pointer}.ds-button:hover{background:#2c2620;color:#f9edda}.ds-button:active{background:rgba(44,38,32,.65)}.ds-button:focus-visible{outline:2px solid #b2c8a1;outline-offset:-2px}.ds-button:disabled{color:#aa9d8b;cursor:default}"
+    },
+    {
+      "name": "Selected client button",
+      "kind": "button",
+      "refersTo": "button-active",
+      "description": "Copper selection with ink text.",
+      "html": "<button class=\"ds-button ds-selected\" aria-pressed=\"true\">Codex</button>",
+      "css": ".ds-button{font:500 12px system-ui;color:#c7b9a6;background:rgba(44,38,32,.85);height:30px;border:0;border-radius:9px;padding:2px 8px;cursor:pointer}.ds-button:hover{background:#2c2620;color:#f9edda}.ds-button:active{background:rgba(44,38,32,.65)}.ds-button:focus-visible{outline:2px solid #b2c8a1;outline-offset:-2px}.ds-button:disabled{color:#aa9d8b;cursor:default}.ds-selected{background:rgba(241,173,115,.85);color:#413126}.ds-selected:hover{background:#f1ad73;color:#413126}.ds-selected:active{background:rgba(241,173,115,.65)}"
+    },
+    {
+      "name": "Disabled button",
+      "kind": "button",
+      "refersTo": "button-disabled",
+      "description": "Muted title using the actual native disabled color.",
+      "html": "<button class=\"ds-button\" disabled>Codex</button>",
+      "css": ".ds-button{font:500 12px system-ui;color:#c7b9a6;background:rgba(44,38,32,.85);height:30px;border:0;border-radius:9px;padding:2px 8px;cursor:pointer}.ds-button:hover{background:#2c2620;color:#f9edda}.ds-button:active{background:rgba(44,38,32,.65)}.ds-button:focus-visible{outline:2px solid #b2c8a1;outline-offset:-2px}.ds-button:disabled{color:#aa9d8b;cursor:default}"
+    },
+    {
+      "name": "Quiet icon control",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "Quiet shell control; SVG is a documentation stand-in for the native SF Symbol.",
+      "html": "<button class=\"ds-button ds-quiet\" aria-label=\"切换置顶\"><svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m8 3 8 0-1 6 4 4v2H5v-2l4-4zM12 15v7\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></button>",
+      "css": ".ds-button{font:500 12px system-ui;color:#c7b9a6;background:rgba(44,38,32,.85);height:30px;border:0;border-radius:9px;padding:2px 8px;cursor:pointer}.ds-button:hover{background:#2c2620;color:#f9edda}.ds-button:active{background:rgba(44,38,32,.65)}.ds-button:focus-visible{outline:2px solid #b2c8a1;outline-offset:-2px}.ds-button:disabled{color:#aa9d8b;cursor:default}.ds-quiet{background:transparent;width:30px;display:inline-flex;align-items:center;justify-content:center}"
+    },
+    {
+      "name": "Workstation sign",
+      "kind": "custom",
+      "refersTo": "workstation-sign",
+      "description": "Two independent nonwrapping lines; native implementation measures glyphs before truncation.",
+      "html": "<div class=\"ds-sign\"><div class=\"ds-sign-title\">Codex  读取文件</div><div class=\"ds-sign-detail\">KitchenStage.swift</div></div>",
+      "css": ".ds-sign{background:#f7e8cd;color:#413126;border-radius:5px;width:124px;height:33px;text-align:center;padding:4px 5px 0}.ds-sign-title{font:600 9px system-ui;height:13px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.ds-sign-detail{font:400 8px system-ui;height:12px;margin-top:1px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}"
+    },
+    {
+      "name": "Compact workstation sign",
+      "kind": "custom",
+      "refersTo": "workstation-sign",
+      "description": "Compact native sign typography, minimum 30pt high.",
+      "html": "<div class=\"ds-sign\"><div class=\"ds-sign-title\">Claude  运行检查</div><div class=\"ds-sign-detail\">very_long_filename_示例.swift</div></div>",
+      "css": ".ds-sign{background:#f7e8cd;color:#413126;border-radius:5px;width:85px;height:30px;text-align:center;position:relative}.ds-sign-title,.ds-sign-detail{position:absolute;left:5px;right:5px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.ds-sign-title{top:4px;height:13px;font:600 7.5px system-ui}.ds-sign-detail{top:18px;height:12px;font:400 7px system-ui}"
+    },
+    {
+      "name": "Receipt text",
+      "kind": "custom",
+      "refersTo": "receipt",
+      "description": "Selectable wrapping paper receipt. Example content is explicitly fictional demo.",
+      "html": "<article class=\"ds-receipt\"><h2>Float Kitchen</h2><p>演示小票 · 以下是虚构活动</p><strong>12:00:00   Codex   寻找食材</strong><p>read_file / Theme.swift</p></article>",
+      "css": ".ds-receipt{background:#f7e8cd;color:#413126;padding:24px 28px;font:400 12px system-ui;max-width:424px;overflow-wrap:anywhere;user-select:text}.ds-receipt h2{font:600 28px ui-serif,serif;margin:0 0 12px}.ds-receipt p{margin:0 0 12px;line-height:1.5}.ds-receipt strong{font:600 14px system-ui;display:block;margin-bottom:12px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "深夜小馆 / The Warm Miniature Bistro",
+    "overview": "Float Kitchen makes waiting feel like watching a small late-night restaurant at work. Ceramic robot chefs, ivory tile, copper cookware, cherrywood and forest green carry the warmth; an espresso shell gives the authored scene a quiet desktop setting. This language comes from the approved kitchen brief and existing implementation.\n\nThe artwork is expressive while information stays still. Native controls, source labels and paper receipts make the performance understandable without turning an event into a claim about the model's thoughts. This document belongs to the independent Float Kitchen app; Orbit's visual system remains separate.",
+    "keyCharacteristics": [
+      "Authored miniature kitchen art with eight distinct chef poses.",
+      "Espresso surroundings, cream reading text and copper selection.",
+      "Steady paper signs and selectable native receipts.",
+      "State-specific compositor motion with accessibility and visibility gates."
+    ],
+    "rules": [
+      {
+        "name": "The Named State Rule",
+        "body": "Color supports the activity name and pose; color alone must not identify a state.",
+        "section": "colors"
+      },
+      {
+        "name": "The Shared Baseline Rule",
+        "body": "Symbols beside text use one `NSTextAttachment` run, with vertical offset `(font.capHeight - iconHeight) / 2`; do not position an unrelated icon by eye. Button symbols are 14pt, standalone controls 15pt, and the brand symbol 24pt.",
+        "section": "typography"
+      },
+      {
+        "name": "The Measured Sign Rule",
+        "body": "Fit each sign line using the actual native font width and a measured trailing ellipsis before drawing. Keep the source/activity line and detail line independent and single-line.",
+        "section": "typography"
+      },
+      {
+        "name": "The Stable Reading Plane Rule",
+        "body": "Keep signs and surrounding information outside the animated layer-hosting subtree. Only the state artwork and local effects move.",
+        "section": "elevation & depth"
+      },
+      {
+        "name": "The Independent Motion Rule",
+        "body": "A client event changes that client's pose and motion without restarting the others. Pause, Reduce Motion, hiding/occlusion and sleep remove continuous effects; static poses and signs retain meaning. A one-second model timer and background polling remain separate from compositor animation; there is no Swift frame redraw timer.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "Do preserve the authored warm bistro world and native system typography.",
+      "Do keep client, activity and safe detail readable on a steady paper sign.",
+      "Do use shared cap-height symbol alignment and measured single-line ellipsis.",
+      "Do preserve independent client motion, Reduce Motion and menu-bar recovery.",
+      "Do distinguish fictional demo, observed live activity and unknown or stale state."
+    ],
+    "donts": [
+      "Don't reintroduce separate foreground props or shared-atlas sampling that bleeds neighboring poses.",
+      "Don't move signs into the animated scene or let motion cover information.",
+      "Don't infer private reasoning, approval, failure or task quality from decorative motion.",
+      "Don't equate display callback cadence with guaranteed GPU frame presentation."
+    ]
+  }
+}
