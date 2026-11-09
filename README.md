@@ -6,7 +6,7 @@ Float Kitchen 是原生 macOS 悬浮应用。厨师的八种姿势分别对应�
 
 ![Float Kitchen 原生应用演示](docs/images/app-preview.png)
 
-[产品与下载](https://harnessloom.com/float-kitchen/) · [下载预览版](https://github.com/jokeuncle/float-kitchen/releases/latest) · [动作说明书](docs/动作说明书.md)
+[产品与下载](https://harnessloom.com/float-kitchen/) · [下载预览版](https://github.com/jokeuncle/float-kitchen/releases/tag/v0.1.0) · [动作说明书](docs/动作说明书.md)
 
 ## 安装与开始
 
